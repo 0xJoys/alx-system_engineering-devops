@@ -1,1 +1,1 @@
-shell basic
+sheshell basic in long format
